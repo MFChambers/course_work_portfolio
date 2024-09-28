@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Your_Name - Data Science Portfolio"
+  title: "Maia Faith Chambers - Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
   site-url: https://your_rendered_url
@@ -12,10 +12,10 @@ website:
 
   page-footer: 
     border: true
-    left: "Your_Name 2024©"
+    left: "Maia Faith Chambers 2024©"
     right: 
       - icon: linkedin
-        href: Your_LinkedIn_URL
+        href: https://www.linkedin.com/in/maia-chambers
 
   navbar:
     background: primary
